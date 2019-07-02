@@ -27,8 +27,9 @@ github_username:  jstnmchl
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Justin Michael and I'm a medical device professional with Bachelor's and Master's degrees in Biomedical Engineering.
+
   Since 2015, I've been involved in image guided interventions and surgical navigation, contributing to the fields of radiation oncology and orthopedics.
-  I've also taken an interest in entrepreneurship and start-ups, competing in an entrepreneurship [pitch competition](https://techalliance.ca/proteus-kick-starting-road-commercialization/) in 2017 and working for a medtech scale-up in Waterloo since 2018.
+  I've also taken an interest in entrepreneurship and start-ups, competing in an entrepreneurship [pitch competition](https://techalliance.ca/proteus-kick-starting-road-commercialization/) in 2017 and working for a [medtech scale-up](https://www.intellijointsurgical.com/) in Waterloo since 2018.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
