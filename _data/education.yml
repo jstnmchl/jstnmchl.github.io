@@ -6,10 +6,12 @@
 #  quote: > #Short institution or course description (optional)
 #    Thesis: A 3D US Guidance System for Permanent Breast Seed Implantation: Development and Validation 
   description: | # this will include new lines to allow paragraphs
-    Developed and validated a 3D ultrasound navigation system for an emerging breast cancer treatment ([PBSI](https://en.wikipedia.org/wiki/Brachytherapy#Permanent_breast_seed_implantation)). 
-    Studied with Dr Aaron Fenster at the Robarts Research Institute. GPA 95%
+    Developed and validated a 3D ultrasound navigation system for an emerging breast cancer treatment ([PBSI](https://en.wikipedia.org/wiki/Brachytherapy#Permanent_breast_seed_implantation)) with Dr Aaron Fenster at the Robarts Research Institute. 
 
-- layout: left
+    Authored a [journal article](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.12990), [letter to the editor](https://www.researchgate.net/publication/315790743_Reply_to_Who_Should_Bear_the_Cost_of_Convenience_A_Cost-effectiveness_Analysis_Comparing_External_Beam_and_Brachytherapy_Radiotherapy_Techniques_for_Early_Stage_Breast_Cancer) and multiple conference proceedings. Co-authored a [textbook chapter](https://books.google.ca/books?id=OEFNDwAAQBAJ&lpg=PT7&dq=justin%20michael%20robarts&pg=PT4#v=onepage&q&f=false).
+    GPA 95%
+
+- layout: right
   name: University of Guelph
   dates: 2010 - 2015
   qualification: BEng - Biomedical Engineering

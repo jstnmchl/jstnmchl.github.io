@@ -17,7 +17,7 @@
 
     Worked with Matlab, especially object oriented Matlab, Git/GitHub and Objective-C.
 
-- layout: left
+- layout: right
   company: University of Western Ontario - Robarts Research Institute
   link: robarts.ca
   job_title: Graduate Research Assistant
@@ -32,3 +32,39 @@
     Acted as liaison between internal development team and clinical collaborators (medical physicists/radiation oncologist) to determine desired technical features, optimal implementation.
 
     Non-thesis projects: analyzed tracked ultrasound data, wrote MATLAB GUI for visualization; developed Python module for medical imaging software to provide GUI for in-house needle segmentation algorithm 
+
+- layout: left
+  company: Baylis Medical Company
+  link: baylismedical.com
+  job_title: Biomedical Engineering Associate
+  dates: May – Aug 2013, May – Dec 2014 
+#  quote: >
+#   3D ultrasound navigation system for an emerging breast cancer treatment.
+  description: | # this will include new lines to allow paragraphs
+    Designed and performed benchtop validation experiments; wrote validation protocol & report for submission to US FDA as part of regulatory submission for electrosurgical (RF) signal generator 
+
+    Drafted design documentation for electrosurgical devices; co-ordinated review of 240+ documents formally implemented within ISO 13485 quality management system 
+
+- layout: right
+  company: Public Health Agency of Canada
+  link: canada.ca/public-health
+  job_title: Biomedical Engineering Associate
+  dates: Jan – Apr 2013
+#  quote: >
+#   3D ultrasound navigation system for an emerging breast cancer treatment.
+  description: | # this will include new lines to allow paragraphs
+    Investigated contentious regulatatory requirements on engineering controls in Canadian biocontainment facilities 
+
+    Presented 1-hour Lunch and Learn on laboratory ventilation requirements
+
+- layout: left
+  company: Healthcare Human Factors - UHN
+  link: humanfactors.ca
+  job_title: Human Factors Student Analyst
+  dates: May – Aug 2012
+#  quote: >
+#   3D ultrasound navigation system for an emerging breast cancer treatment.
+  description: | # this will include new lines to allow paragraphs #TODO: add links to two coop awards
+    Facilitated observational human factors study of intravenus drug administration and scored participant outcomes 
+
+    Supported study planning and logistics. Awarded university-wide and Ontario-wide co-op student of the year
