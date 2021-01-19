@@ -1,9 +1,9 @@
 # Experience template
 - layout: left
-  company: Intellijoint Surgical
-  link: intellijointsurgical.com
-  job_title: Advanced Researcher
-  dates: Mar 2018 - present
+  company: Kardium
+  link: https://kardium.com
+  job_title: Cardiac Mapping Team Lead/Research Engineer
+  dates: Sep 2020 - Present / Nov 2019 - Sep 2020
 #  quote: >
 #   Scale-up providing surgical navigation systems to orthopedic surgeons.
   description: | # this will include new lines to allow paragraphs 
@@ -18,6 +18,16 @@
     Worked with Matlab, especially object oriented Matlab, Git/GitHub and Objective-C.
 
 - layout: right
+  company: Intellijoint Surgical
+  link: intellijointsurgical.com
+  job_title: Advanced Researcher
+  dates: Mar 2018 - Nov 2019
+#  quote: >
+#   Scale-up providing surgical navigation systems to orthopedic surgeons.
+  description: | # this will include new lines to allow paragraphs 
+    Member and then team lead, of cardiac mapping team at a medical device start up. Researched, developed and evaluated proof of concept algorithms and techniques for mapping and navigation of an advanced ablation catheter for atrial fibrillation.
+
+- layout: left
   company: University of Western Ontario - Robarts Research Institute
   link: robarts.ca
   job_title: Graduate Research Assistant
@@ -33,7 +43,7 @@
 
     Non-thesis projects: analyzed tracked ultrasound data, wrote MATLAB GUI for visualization; developed Python module for medical imaging software to provide GUI for in-house needle segmentation algorithm 
 
-- layout: left
+- layout: right
   company: Baylis Medical Company
   link: baylismedical.com
   job_title: Biomedical Engineering Associate
@@ -45,7 +55,7 @@
 
     Drafted design documentation for electrosurgical devices; co-ordinated review of 240+ documents formally implemented within ISO 13485 quality management system 
 
-- layout: right
+- layout: left
   company: Public Health Agency of Canada
   link: canada.ca/public-health
   job_title: Biomedical Engineering Associate
@@ -57,7 +67,7 @@
 
     Presented 1-hour Lunch and Learn on laboratory ventilation requirements
 
-- layout: left
+- layout: right
   company: Healthcare Human Factors - UHN
   link: humanfactors.ca
   job_title: Human Factors Student Analyst
