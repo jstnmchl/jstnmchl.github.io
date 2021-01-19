@@ -7,15 +7,7 @@
 #  quote: >
 #   Scale-up providing surgical navigation systems to orthopedic surgeons.
   description: | # this will include new lines to allow paragraphs 
-    Member of advanced research and algorithms team. Researched and developed proof of concept prototypes for new products, features in field of orthopedic surgical navigation. Designed new and/or improved algorithms for tracking system, clinical applications. 
-
-    Designed and authored three validation protocols as part of US FDA 510K application for surgical navigation product. 
-
-    Developed company’s IP portfolio, including drafting invention disclosures, working with external lawyer to draft provisional patent filings. Inventor on four provisional patent applications. 
-
-    Liaised with external development partners and academic collaborations. Travelled internationally to solicit feedback from key opinion leaders on early stage prototype.
-
-    Worked with Matlab, especially object oriented Matlab, Git/GitHub and Objective-C.
+    Member and then team lead of cardiac mapping team at a medical device start up. Researched, developed and evaluated proof of concept algorithms and techniques for mapping and navigation of an advanced ablation catheter for atrial fibrillation.
 
 - layout: right
   company: Intellijoint Surgical
@@ -25,7 +17,15 @@
 #  quote: >
 #   Scale-up providing surgical navigation systems to orthopedic surgeons.
   description: | # this will include new lines to allow paragraphs 
-    Member and then team lead, of cardiac mapping team at a medical device start up. Researched, developed and evaluated proof of concept algorithms and techniques for mapping and navigation of an advanced ablation catheter for atrial fibrillation.
+    Member of advanced research and algorithms team. Researched and developed proof of concept prototypes for new products, features in field of orthopedic surgical navigation. Designed new and/or improved algorithms for tracking system, clinical applications. 
+
+    Designed and authored three validation protocols as part of US FDA 510K application for surgical navigation product. 
+
+    Developed company’s IP portfolio, including drafting invention disclosures, working with external lawyer to draft provisional patent filings. Inventor on four provisional patent applications. 
+
+    Liaised with external development partners and academic collaborations. Travelled internationally to solicit feedback from key opinion leaders on early stage prototype.
+
+    Worked with Matlab, especially object oriented Matlab, Git/GitHub and Objective-C.
 
 - layout: left
   company: University of Western Ontario - Robarts Research Institute
